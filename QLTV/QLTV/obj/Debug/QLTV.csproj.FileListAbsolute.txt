@@ -1,0 +1,15 @@
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.loign.resources
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.admin1.resources
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.user.resources
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.tacgia.resources
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.nguoidung.resources
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.sach.resources
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\QLTV\QLTV\obj\Debug\QLTV.theloai.resources
