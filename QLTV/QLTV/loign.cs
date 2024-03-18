@@ -71,5 +71,10 @@ namespace QLTV
         {
             this.Close();
         }
+
+        private void loign_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

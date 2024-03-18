@@ -125,6 +125,7 @@
             this.DoubleBuffered = true;
             this.Name = "loign";
             this.Text = "loign";
+            this.Load += new System.EventHandler(this.loign_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
