@@ -10,3 +10,4 @@ C:\Users\DUY DO\Desktop\C#-phantan-QLTV\nhom1\nhom1\obj\Debug\nhom1.exe
 C:\Users\DUY DO\Desktop\C#-phantan-QLTV\nhom1\nhom1\obj\Debug\nhom1.pdb
 C:\Users\DUY DO\Desktop\C#-phantan-QLTV\nhom1\nhom1\obj\Debug\nhom1.csprojResolveAssemblyReference.cache
 C:\Users\DUY DO\Desktop\C#-phantan-QLTV\nhom1\nhom1\obj\Debug\nhom1.user.resources
+C:\Users\DUY DO\Desktop\C#-phantan-QLTV\nhom1\nhom1\obj\Debug\nhom1.sach.resources
